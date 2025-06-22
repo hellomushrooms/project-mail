@@ -2,6 +2,8 @@
 
 A simplified Gmail clone built using Django and JavaScript as part of Harvard's CS50W.
 
+Here's a video of this project in action: https://www.youtube.com/watch?v=b2VPSEG5HFM
+
 ## ✨ Features
 - User login, inbox, sent, and archived messages
 - Compose new messages
